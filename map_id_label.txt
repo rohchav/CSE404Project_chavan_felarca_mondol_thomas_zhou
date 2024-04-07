@@ -1,0 +1,17 @@
+1,apple
+2,banana
+3,bread
+4,cake
+5,carrot
+6,donut
+7,grapes
+8,hamburger
+9,hot-dog
+10,ice-cream-cone
+11,pear
+12,pineapple
+13,pizza
+14,pretzel
+15,pumpkin
+16,strawberry
+17,tomato
